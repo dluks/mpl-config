@@ -1,0 +1,33 @@
+# A Science Journal-inspired theme
+
+# Fonts
+font.family: sans-serif
+font.sans-serif: Ubuntu, Helvetica, DejaVu Sans, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
+font.monospace: Ubuntu Monospace
+
+# Lines
+lines.color: CBCC5C
+lines.linewidth: 3
+
+# Axes
+axes.prop_cycle: cycler('color', ['005e7f', '9d0a0e', '7e6aac', 'e5d513', 'cbcc5c', 'da5801', '2d9a6b', 'df328d'])
+axes.labelweight: bold
+axes.labelcolor: 1B1B1B
+axes.facecolor: FAFAFA
+axes.titlesize: 18
+axes.titley: 1.05
+axes.titleweight: bold
+
+# Legend
+legend.frameon: False
+legend.facecolor: w
+legend.framealpha: None
+legend.fontsize: 13
+
+# Grid
+grid.linestyle: :
+grid.color: C4C4C4
+grid.linewidth: 0.4
+
+# Title
+figure.titlesize: 22
